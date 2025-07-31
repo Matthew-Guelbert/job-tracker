@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "OpenAI",
+    "location": "Remote",
+    "url": "https://www.openai.com/careers",
+    "tags": ["React", "JavaScript", "Remote"]
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "TechCorp",
+    "location": "San Francisco, CA",
+    "url": "https://www.techcorp.com/careers",
+    "tags": ["Node.js", "Express", "SQL"]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "Innovatech",
+    "location": "New York, NY",
+    "url": "https://www.innovatech.com/careers",
+    "tags": ["React", "Node.js", "GraphQL"]
+  }
+]
